@@ -1,4 +1,5 @@
 <?php
+echo 'this is test';
 			include('CutPeice.php');
 			include('Classes/Result.php');
 			include('config.php');
